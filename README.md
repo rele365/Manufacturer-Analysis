@@ -6,7 +6,7 @@ Excel + Power BI Project | Sales and Market Share Dataset | From Raw Data To Act
 * [Dataset Overview](#dataset-overview)
 * [Data Preparation & Cleaning Process](#data-preparation--cleaning-process)
 * [Power BI Dashboard](#power-bi-dashboard)
-* [Key Insights](key-insights)
+* [Key Insights](#key-insights)
 
 
 ## Project Overview
